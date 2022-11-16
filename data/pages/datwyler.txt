@@ -1,0 +1,42 @@
+====== Catálogos Datwyler ======
+
+
+{{:logo_datwyler.png?300|}}
+
+
+
+
+----
+
+
+==== Data Solutions Product Guide ====
+ 
+
+
+Catálogo internacional de la marca Datwyler 2020/2021, incluye productos de cobre y de fibra óptica. Este catálogo contiene todos los productos que distribuye Datwyler.
+
+
+<html>
+<a href="https://api-marathon.azurewebsites.net/api/docs/wiki/2022-05%20Integradores%20ALPLA.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="20%" height="20%"  alt="Datwyler " /></a>
+</html>
+
+
+
+
+----
+
+
+==== Rack Solutions Product Guide ====
+
+
+Catálogo Europeo de la marca Datwyler 2020/2021, incluye productos de gabinetes. Este catálogo contiene todos los productos que distribuye Datwyler en el segmento de racks, gabinetes, accesorios, micro y mini Data Centers.
+
+<html>
+<a href="https://api-marathon.azurewebsites.net/api/docs/wiki/2022-05-03%20INTEGRADORES%20AUDI.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="20%" height="20%" alt="Datwyler " /></a>
+</html>
+
+
+----
+
+
+

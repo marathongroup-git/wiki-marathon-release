@@ -1,0 +1,83 @@
+@import 'semanticgridsystem.less';
+
+//////////
+// GRID //
+//////////
+
+// Specify the number of columns and set column and gutter widths
+@columns: 12;
+@column-width: 60;
+@gutter-width: 20;
+
+// Uncomment the definition below for a percentage-based layout
+// @total-width: 100%;
+
+
+////////////
+// LAYOUT //
+////////////
+
+// center the contents
+div.container {
+	max-width: @ini_site_width;
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: #E3DEA6;
+	padding: 16px;
+}
+
+header {
+	//.column(12);
+}
+
+.footer {
+	width: 100%;
+}
+
+// main and sidebar
+#maincolumn {
+	.column(9);
+	
+}
+
+#sidebar {
+	.column(3);
+}
+
+/* ______ */
+.flex { display: flex !important; }
+.sparewidth { flex-grow: 100; }
+/* make column fill spare remaining width of container 
+		https://stackoverflow.com/a/40447261/337306 */
+
+		.makehigh{ display: table; }
+        .makehigh .column { display: table-cell; float: none; }
+        /* all columns same height */
+        /* https://www.w3schools.com/howto/howto_css_equal_height.asp */
+
+/* _______ */
+
+@media screen and (max-width: 1100px) {
+	/*body { background-color: green; } .container { background-color: red !important; }*/
+	#sidebar, #maincolumn { box-sizing: border-box; }
+}
+
+@media screen and (max-width: 700px) {
+	/*body, .container { background-color: purple !important; }*/
+    div.center { padding: 0px; width: 100%; }
+    header#top { margin: 0px; }
+
+    .flex { display: table-row !important; }
+    
+	#maincolumn,
+	#sidebar,
+	.footer {
+		.column(12);
+		width: 100%;
+	}
+
+	#maincolumn, #sidebar { margin: 0px; }
+	.footer { margin: 20px 0px !important; }
+	
+	.secondlevel { margin-left: 24px; }
+}

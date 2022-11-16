@@ -1,0 +1,1 @@
+SimpleSVG._loaderCallback({"prefix":"mdi","icons":{"delete":{"body":"<path d=\"M19 4h-3.5l-1-1h-5l-1 1H5v2h14M6 19a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7H6v12z\" fill=\"currentColor\"\/>"},"check":{"body":"<path d=\"M21 7L9 19l-5.5-5.5l1.41-1.41L9 16.17L19.59 5.59L21 7z\" fill=\"currentColor\"\/>"}},"aliases":[],"width":24,"height":24});

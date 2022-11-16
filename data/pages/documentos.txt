@@ -1,0 +1,6 @@
+====== Documentos ======
+
+----
+Fichas técnicas, manuales, certificados GHMT, entre otros
+
+{{ :logo-svs_2_.svg?100 |}}

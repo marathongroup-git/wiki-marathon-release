@@ -1,0 +1,12 @@
+<svg width="1352" height="900" xmlns="http://www.w3.org/2000/svg">
+ <title>Drawing</title>
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="1017.5" width="1428.43018" y="-15.5" x="-12.95347" fill="#bf0000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Bitter'" font-size="111" id="svg_3" y="265.8372" x="424.89534" stroke-width="0" stroke="#000" fill="#ffffff">Catálogos</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Bitter'" font-size="69" stroke-width="0" id="svg_6" y="488.04651" x="207.86047" fill="#ffffff">Catálogos de productos de las</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Bitter'" font-size="69" stroke-width="0" id="svg_7" y="590.54651" x="195.53488" fill="#ffffff">diferentes marcas, incluyendo</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Bitter'" font-size="69" stroke-width="0" id="svg_9" y="695.54651" x="388.2093" fill="#ffffff">homologaciones.</text>
+ </g>
+</svg>

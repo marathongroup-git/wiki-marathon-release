@@ -1,0 +1,7 @@
+base     chippedsnow
+author   desbest
+email    afaninthehouse@gmail.com
+date     2022-06-01
+name     Chipped Snow Template
+desc     A minimal template designed for focused reading
+url      https://www.dokuwiki.org/template:chippedsnow

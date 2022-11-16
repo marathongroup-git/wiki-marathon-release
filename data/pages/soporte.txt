@@ -1,0 +1,6 @@
+====== Soporte y garantía ======
+
+----
+Garantías de sistemas, requisitos de instalación, cursos de certificación.
+
+{{ :logo-svs_2_.svg?100 |}}

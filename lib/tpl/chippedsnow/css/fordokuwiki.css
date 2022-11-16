@@ -1,0 +1,73 @@
+/* desbest edit for dokuwiki */
+#navcontainer li { margin: 0px; }
+#navcontainer a { background-image: none; }
+h1#sidebar { float: none; }
+.breadcrumbs { margin-top: 0px; margin-bottom: 12px; }
+.contenthere li { display: block; }
+#dw__search { margin-bottom: 1em; display: block; }
+ #dw__search button { margin-top: 0.85em; }
+ #mediamanager__page .file { width: 70%; clear: both; }
+ .toolbutton img { margin: 8px 8px !important; }
+ .page button { margin: 3px; }
+ .notify { border-radius: 0px !important; }
+ #sidebar { width: __sidebar_width__ !important; }
+
+
+ul.horimenu { padding: 0px; margin: 0px; }
+.horimenu li:first-of-type { margin-left: 0px; }
+.horimenu li {
+	padding: 8px;
+	/*background-color: #99ccff;*/
+	background-color: #D4CC77;
+	min-width: 30px;
+	margin-right: 16px;
+	margin-left: 0px;
+	/*margin: unset;*/
+	display: inline-block;
+	margin-bottom: 12px;
+	/*margin: 0px;*/
+}
+
+
+
+.horimenu li:hover a{ color: #fff; }
+
+.horimenu li:hover{
+	background-color: #C5BB49;
+	font-weight: bold;
+	/*padding-left: 16px;*/
+	color: #fff !important;
+}
+ 
+
+.horimenu a:link, .horimenu a:visited{
+	color: #2a2a2a;
+	text-decoration: none;
+}
+/* config manager */
+
+/*#config__manager fieldset { clear: both; }*/
+#config__manager table { min-width: 10%; width: 100%; }
+/*fieldset { word-wrap: anywhere; }*/
+#config__manager table { border-collapse: revert; border-spacing: 0px 1.85em; }
+#config__manager tr { padding: 1em 0px; }
+#config__manager td.label span.outkey { font-size: 1.15em !important; }
+#config__manager fieldset td.value { width: 17em; }
+
+/* defined in /lib/plugin/config.style.css */
+#config__manager td input.edit {
+    max-width: 14em;
+}
+#config__manager td .input {
+    min-width: 30%;
+    /*width: 90%;*/
+    width: unset;
+    /*width: max-content;*/
+}
+#config__manager td select.edit { }
+#config__manager td textarea.edit {
+    width: 8.5em;
+    height: 4em;
+}
+
+/* ------ */
