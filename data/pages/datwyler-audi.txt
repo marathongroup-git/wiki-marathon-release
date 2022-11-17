@@ -1,13 +1,14 @@
 ====== Catálogos AUDI Datwyler ======
-{{:datwyler.png?200|}} {{:audi.png?200|}}
+{{:datwyler.png?300|}} {{:audi.png?300|}}
 
 ==== Catálogo de cobre Datwyler para AUDI MX ====
 
 El siguiente documento contiene un archivo con los números de parte de productos Datwyler específicos para la planta de AUDI en San Jose Chiapa y sus filiales en México. Este catálogo ha sido actualizado en mayo del 2022 incluye todos los productos de cobre autorizados por AUDI México.
  
 <html>
-<a href="https://api-marathon.azurewebsites.net/api/docs/wiki/2022-05%20Integradores%20ALPLA.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
+<a href="https://wiki-marathongroup.azurewebsites.net/data/media/2022-04-18%20DATWYLER%20SHOPPING%20BASKET%20COBRE%20-AUDI.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
 </html>
+
 
 
 ==== Catálogo de fibra óptica Datwyler para AUDI MX ====
@@ -15,7 +16,7 @@ El siguiente documento contiene un archivo con los números de parte de producto
 El siguiente documento contiene un archivo con los números de parte de productos Datwyler específicos para la planta de AUDI en San Jose Chiapa y sus filiales en México. Este catálogo ha sido actualizado en mayo del 2022 incluye todos los productos de Fibra Óptica autorizados por AUDI México. 
 
 <html>
-<a href="https://api-marathon.azurewebsites.net/api/docs/wiki/2022-05%20Integradores%20ALPLA.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
+<a href="https://wiki-marathongroup.azurewebsites.net/data/media/2022-04-18 DATWYLER SHOPPING BASKET FIBRA-AUDI.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
 </html>
 
 
@@ -25,6 +26,5 @@ El siguiente documento contiene un archivo con los números de parte de producto
 El siguiente documento contiene un archivo con los números de parte de productos Datwyler específicos para la planta de AUDI en San Jose Chiapa y sus filiales en México. Este catálogo ha sido actualizado en mayo del 2022 incluye todos los productos de Alta Densidad autorizados por AUDI México. 
 
 <html>
-<a href="https://api-marathon.azurewebsites.net/api/docs/wiki/2022-05%20Integradores%20ALPLA.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
+<a href="https://wiki-marathongroup.azurewebsites.net/data/media/2022-04-18 DATWYLER SHOPPING BASKET HD-DCS-AUDI.pdf"><img src="lib/exe/fetch.php?media=boton2.svg"  width="15%" height="15%"  alt="Datwyler " /></a>
 </html>
-

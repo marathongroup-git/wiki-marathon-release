@@ -20,3 +20,13 @@ wiki:dokuwiki	@ALL	0
 wiki:syntax	@ALL	0
 wiki:welcome	@ALL	0
 inicio	@ALL	1
+catalogos	@audi	1
+centro	@audi	0
+datwyler	@audi	0
+datwyler-audi	@audi	1
+documentos	@audi	0
+faqs	@audi	0
+inicio	@audi	0
+integradores	@audi	0
+soporte	@audi	0
+start	@audi	1

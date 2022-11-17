@@ -1,17 +1,23 @@
 {{ :logo-svs_2_.svg?350 |}}
 
 
+----
+
+
 <html>
 <html lang="en">
 <head>
     
-    <meta charset="utf-8">
+    <meta charset="utf-8"  >
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://www.markuptag.com/bootstrap/5/css/bootstrap.min.css">
     <style>
     .card-thumbnail {
+
         max-height: 250px;
+        
+
         overflow: hidden;
     }
     <style>
@@ -24,6 +30,9 @@
 </head>
 <body>
 
+
+
+
     <!-- Bootstrap 5 Cards in Grid -->
     <section class="bg-light py-4 my-5">
         <div class="container">
@@ -35,9 +44,10 @@
                 </div>
 
                 <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+                    <div class="card" style="width:15rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=catalogos"> <img src="lib/exe/fetch.php?w=400&tok=e7680f&media=catalogos.png" /> </a>                                           
+                       
+                            <a href="doku.php?id=catalogos"> <img src="lib/exe/fetch.php?media=catalogos10.svg" /> </a>                                           
                         </div>                        
                     </div>
                 </div>
@@ -45,44 +55,44 @@
                
               
 
-                <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+               <div class="col-md-6 col-lg-4">
+                    <div class="card" style="width:15rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=documentos"> <img src="lib/exe/fetch.php?w=400&tok=eb497b&media=documentos.png"   /> </a>                                           
+                            <a href="doku.php?id=documentos"> <img src="lib/exe/fetch.php?media=documentos.svg"   /> </a>                                           
                         </div>                        
                     </div>
                 </div>
 
                 <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+                    <div class="card" style="width:15rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=soporte"> <img src="lib/exe/fetch.php?w=400&tok=7a506c&media=soporte.png"   /> </a>                                           
+                            <a href="doku.php?id=soporte"> <img src="lib/exe/fetch.php?cache=&media=soporte.svg"   /> </a>                                           
                         </div>                        
                     </div>
                 </div>
 
               
 
-                <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+               <div class="col-md-6 col-lg-4">
+                    <div class="card" style="width:15rem; margin-top:2rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=centro"> <img src="lib/exe/fetch.php?w=400&tok=0f36b6&media=centro.png"   /> </a>                                           
+                            <a href="doku.php?id=centro"> <img src="lib/exe/fetch.php?media=centro.svg"   /> </a>                                           
                         </div>                        
                     </div>
                 </div>
                                                               
              <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+                    <div class="card" style="width:15rem; margin-top:2rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=integradores"> <img src="lib/exe/fetch.php?w=400&tok=6c9eed&media=integradores.png"   /> </a>                                           
+                            <a href="doku.php?id=integradores"> <img src="lib/exe/fetch.php?cache=&media=integradores.svg"   /> </a>                                           
                         </div>                        
                     </div>
                 </div>
               
-               <div class="col-md-6 col-lg-4">
-                    <div class="card my-3">
+              <div class="col-md-6 col-lg-4">
+                    <div class="card" style="width:15rem; margin-top:2rem;">
                         <div class="card-thumbnail">
-                            <a href="doku.php?id=faqs"> <img src="lib/exe/fetch.php?w=400&tok=f0219c&media=faqs.png"   /> </a>                                           
+                            <a href="doku.php?id=faqs"> <img src="lib/exe/fetch.php?media=faqs.svg"   /> </a>                                           
                         </div>                        
                     </div>
                 </div>
@@ -100,3 +110,8 @@
 </html>
 
 {{ :logo.df224df6.svg?60 |}}
+<html>
+<center>
+Marathongroup Wiki V 0.8 2022
+</center>
+</html>

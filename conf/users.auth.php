@@ -11,3 +11,5 @@
 # login:passwordhash:Real Name:email:groups,comma,separated
 
 apolanco:$2y$10$ig0c5A6TmpYiAA5ObFr1xubibxjlOkgLKudjHU9VLNbVrajdCGogG:José Alberto Méndez Polanco:apolanco@marathongroup.mx:admin,user
+luvera:$2y$10$kb1oOERe3KZXVFBTD2uE6.tZBiNF9hSyZhTLXfDwcfKhszIdYlxru:Luis Uvera:luvera@marathongroup.mx:admin
+audiuser:$2y$10$2v2lv7L1lHUWC8F5CALpwOFqZL5K5TdnQf/LR9u9c9zgoFMZhvxyG:Audi:audi@gmail.com:audi
